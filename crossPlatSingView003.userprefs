@@ -1,1 +1,8 @@
-﻿<Properties StartupItem="Droid/crossPlatSingView003.Droid.csproj" />
+﻿<Properties StartupItem="Droid/crossPlatSingView003.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
