@@ -1,6 +1,11 @@
 ﻿<Properties StartupItem="Droid/crossPlatSingView003.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.0123456789ABCDEF" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="crossPlatSingView003/MainCrossClass.cs">
+    <Files>
+      <File FileName="iOS/Main.cs" Line="6" Column="1" />
+      <File FileName="crossPlatSingView003/MainCrossClass.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
