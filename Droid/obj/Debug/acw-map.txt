@@ -1,0 +1,4 @@
+crossPlatSingView003.Droid.MainActivity, crossPlatSingView003.Droid;md552676976f575da0fbb0411e43d4ba70a.MainActivity
+crossPlatSingView003.Droid.MainActivity, crossPlatSingView003.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md552676976f575da0fbb0411e43d4ba70a.MainActivity
+crossPlatSingView003.Droid.MainActivity;md552676976f575da0fbb0411e43d4ba70a.MainActivity
+crossplatsingview003.droid.MainActivity;md552676976f575da0fbb0411e43d4ba70a.MainActivity
