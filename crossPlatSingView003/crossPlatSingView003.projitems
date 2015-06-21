@@ -14,5 +14,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)Conversation.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Message.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)IWebService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FakeWebService.cs" />
   </ItemGroup>
 </Project>
