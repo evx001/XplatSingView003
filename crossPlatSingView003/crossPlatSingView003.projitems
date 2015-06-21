@@ -12,5 +12,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)MainCrossClass.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Conversation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Message.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IWebService.cs" />
   </ItemGroup>
 </Project>
