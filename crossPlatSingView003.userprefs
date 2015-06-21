@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="Droid/crossPlatSingView003.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.0123456789ABCDEF" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="crossPlatSingView003/MainCrossClass.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.2.3.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="crossPlatSingView003/FakeWebService.cs">
     <Files>
       <File FileName="iOS/Main.cs" Line="6" Column="1" />
-      <File FileName="crossPlatSingView003/MainCrossClass.cs" Line="11" Column="1" />
+      <File FileName="crossPlatSingView003/User.cs" Line="11" Column="38" />
+      <File FileName="crossPlatSingView003/Conversation.cs" Line="15" Column="1" />
+      <File FileName="crossPlatSingView003/Message.cs" Line="18" Column="1" />
+      <File FileName="crossPlatSingView003/IWebService.cs" Line="24" Column="1" />
+      <File FileName="crossPlatSingView003/FakeWebService.cs" Line="61" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
